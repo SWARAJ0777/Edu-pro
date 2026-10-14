@@ -1,0 +1,92 @@
+
+=== DISTRIBUTION ===
+                 metric  n  mean  median     sd   iqr     skew  kurtosis  shapiro_p   gini
+          TeacherRating 60 3.125   3.275 0.9498  1.34  -0.4848   -0.4035    0.05834 0.1692
+           CourseRating 60 3.098   3.065  1.171 1.995 -0.04838    -1.225   0.007639  0.216
+Enrollments per teacher 60 166.7    56.5  539.8  47.5    5.165      24.8   3.54e-16  0.681
+
+=== CORRELATIONS ===
+                                                  test   grain   n          r   ci_low  ci_high         p  spearman_rho  spearman_p    p_holm  significant
+                           Experience vs TeacherRating teacher  60      0.598   0.4057   0.7396 4.518e-07        0.6705   4.603e-09 5.421e-06         True
+          Experience vs CourseRating (mean of courses) teacher  60    -0.1375  -0.3782   0.1206    0.2948       -0.2112      0.1052         1        False
+      Experience vs CourseRating (enrollment-weighted) teacher  60   -0.05689  -0.3064   0.1999    0.6659      -0.04822      0.7145         1        False
+                            Experience vs CourseRating    pair 887   -0.01314 -0.07889  0.05273     0.696      -0.02574       0.444         1        False
+       TeacherRating vs CourseRating (mean of courses) teacher  60    -0.3049  -0.5187 -0.05526   0.01785       -0.3966    0.001707    0.1606        False
+   TeacherRating vs CourseRating (enrollment-weighted) teacher  60  0.0004787  -0.2535   0.2544    0.9971      -0.05913      0.6536         1        False
+                         TeacherRating vs CourseRating    pair 887   -0.03366 -0.09927  0.03223    0.3166      -0.04982      0.1382         1        False
+      TeacherRating vs CourseRating | category + level    pair 887 -0.0003727      NaN      NaN    0.9912           NaN         NaN         1        False
+                          TeacherRating vs Enrollments teacher  60     0.3183  0.07002   0.5294    0.0132      -0.01202      0.9274     0.132        False
+                     TeacherRating vs log(Enrollments) teacher  60     0.1993 -0.05757   0.4314    0.1269      -0.01202      0.9274         1        False
+                                  TeacherRating vs EIR teacher  60     0.3439  0.09859   0.5498  0.007137        0.2043      0.1173    0.0785        False
+TeacherRating vs Enrollments (excl. top-2 instructors) teacher  58    -0.1067  -0.3552   0.1559    0.4254       -0.1204      0.3678         1        False
+
+=== GROUP_TESTS ===
+                                                 test  groups  anova_F   anova_p  kruskal_H  kruskal_p  effect_eps2   p_holm
+                       CourseRating by CourseCategory      12   0.3599    0.9653      4.388     0.9572            0        1
+                          CourseRating by CourseLevel       3    1.014    0.3694      1.913     0.3842            0        1
+                           TeacherRating by Expertise      10    2.143   0.04367      15.67    0.07409        0.139   0.3057
+            Mean CourseRating by instructor Expertise      10     3.86 0.0009827       22.8   0.006654       0.2876 0.007862
+                            Enrollments by RatingTier       3    2.297    0.1098      8.913     0.0116       0.1213   0.5489
+                      Mean CourseRating by RatingTier       3    9.385 0.0002998      14.17  0.0008364       0.2136 0.002698
+              Enrollments by RatingTier (excl. top-2)       3    3.251   0.04628      8.195    0.01662       0.1126   0.3057
+                        TeacherRating: Female vs Male       2   0.7517    0.4562        551     0.1187          NaN        1
+CourseRating: domain-aligned vs cross-domain delivery       2  0.03171    0.9747  8.726e+04     0.8891          NaN        1
+
+=== EXPERIENCE_CURVE ===
+            model     r2    aic  delta_aic
+    Hinge @ 8 yrs 0.4212    -32          0
+Log (diminishing)  0.371 -29.01      2.993
+        Quadratic 0.3888 -28.73      3.275
+           Linear 0.3576 -27.75      4.255
+
+=== EXPERIENCE_BANDS ===
+ExperienceBand  instructors  teacher_rating  course_rating   rci     eis
+       1-2 yrs           13           2.644          3.092 36.48 -0.6651
+       3-5 yrs           15           2.187          3.196 38.57 -0.6076
+       6-8 yrs           18           3.627          3.023 38.17  0.2465
+      9-12 yrs            9            3.92          3.021  37.1   0.333
+       13+ yrs            5           3.954          3.051 38.83  0.2715
+
+=== TIERS ===
+RatingTier  instructors  mean_teacher_rating  total_enrollments  mean_enrollments  median_enrollments  mean_course_rating  mean_eir  median_eir  enrollment_share
+       Low           20                2.024               1509             75.45                  61               3.159    0.5214      0.4379            0.1509
+       Mid           20                3.263               1032              51.6                  44               3.167    0.3017      0.2359            0.1032
+      High           20                4.088               7459             372.9                62.5               2.923     1.101      0.6603            0.7459
+
+=== DOMAIN_PROFILE ===
+               category  courses  instructors  mean_course_rating  course_rating_sd  course_rating_range  mean_instructor_rating  aligned_instructor_share  enrollment  fully_crossed
+       Machine Learning        5           26               2.658             1.559                  3.6                   2.486                    0.1923         819          False
+               Business        5           23               2.688            0.7285                 1.68                   3.904                   0.08696         833          False
+        Web Development        5           25               2.846             1.289                 3.44                   3.234                       0.2         844          False
+          Cybersecurity        5            9               2.902              1.49                 3.59                   3.469                         1         819           True
+                Finance        5            8                3.01               1.1                 2.55                   3.643                      0.75         864          False
+            Programming        5           41               3.036             1.327                 3.46                   2.743                   0.02439         806          False
+Artificial Intelligence        5            8               3.036             1.241                 3.35                   3.574                      0.75         829           True
+     Project Management        5            7               3.142             1.708                 3.61                   3.267                    0.7143         829           True
+                 Design        5           24               3.162             1.292                 2.99                   3.227                    0.1667         827          False
+           Data Science        5            7               3.316             0.504                 1.17                   3.529                    0.7143         916           True
+      Digital Marketing        5           13               3.656             1.029                 2.52                   3.315                    0.8462         808          False
+              Marketing        5           42               3.722             1.201                 2.78                   2.763                   0.02381         806          False
+
+=== GENDER_LEVEL ===
+CourseLevel  Advanced  Beginner  Intermediate
+Gender                                       
+Female           2.91     2.966         3.327
+Male            2.973     3.152         3.496
+
+=== BREAKPOINT ===
+ breakpoint_years  slope_before  slope_after
+                8        0.2115       0.0477
+
+=== DEMAND CONCENTRATION ===
+  gini_enrollments                     0.68098
+  top2_share                           0.6086
+  top2_names                           ['Yolanda Levine', 'Kimberly Miller']
+  top2_ratings                         [4.97, 4.58]
+  top2_courses_covered                 60
+  top2_domain_aligned_share            0.15823200788695366
+  rest_domain_aligned_share            0.8042922841083291
+  top2_enrollments_per_delivery        55.32727272727273
+  rest_enrollments_per_delivery        5.037323037323038
+  rest_enrollments_per_delivery_median 2.0
+  aggregate_eir                        0.9999999999999998

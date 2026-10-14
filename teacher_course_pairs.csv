@@ -1,0 +1,888 @@
+TeacherID,CourseID,Enrollments,Revenue,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating,CourseName,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating,DomainAligned,CourseEnrollments,TeachersOnCourse,ExpectedEnrollments
+TC00001,CR00005,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00001,CR00006,1,276.37,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00001,CR00009,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00001,CR00010,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00001,CR00016,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00001,CR00017,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00001,CR00019,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00001,CR00020,1,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00001,CR00031,5,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00001,CR00032,8,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00001,CR00033,4,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00001,CR00034,4,1577.04,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00001,CR00035,3,0.0,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00001,CR00051,3,113.67,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00001,CR00055,1,57.32,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00002,CR00011,1,326.02,Jill Day,32,Female,Digital Marketing,9,4.14,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00002,CR00013,3,0.0,Jill Day,32,Female,Digital Marketing,9,4.14,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00002,CR00014,1,0.0,Jill Day,32,Female,Digital Marketing,9,4.14,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00002,CR00015,1,285.05,Jill Day,32,Female,Digital Marketing,9,4.14,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00002,CR00056,15,3185.85,Jill Day,32,Female,Digital Marketing,9,4.14,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00002,CR00057,9,1596.06,Jill Day,32,Female,Digital Marketing,9,4.14,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00002,CR00058,15,0.0,Jill Day,32,Female,Digital Marketing,9,4.14,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00002,CR00059,16,0.0,Jill Day,32,Female,Digital Marketing,9,4.14,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00002,CR00060,7,0.0,Jill Day,32,Female,Digital Marketing,9,4.14,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00003,CR00001,2,944.56,Amber Torres,32,Male,Design,4,1.56,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00003,CR00003,2,0.0,Amber Torres,32,Male,Design,4,1.56,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00003,CR00004,1,0.0,Amber Torres,32,Male,Design,4,1.56,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00003,CR00005,3,0.0,Amber Torres,32,Male,Design,4,1.56,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00003,CR00006,7,1934.5900000000001,Amber Torres,32,Male,Design,4,1.56,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,True,156,15,10.4
+TC00003,CR00007,19,0.0,Amber Torres,32,Male,Design,4,1.56,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,True,178,16,11.125
+TC00003,CR00008,4,0.0,Amber Torres,32,Male,Design,4,1.56,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,True,158,15,10.533333333333333
+TC00003,CR00009,6,0.0,Amber Torres,32,Male,Design,4,1.56,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,True,155,19,8.157894736842104
+TC00003,CR00010,7,0.0,Amber Torres,32,Male,Design,4,1.56,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,True,180,18,10.0
+TC00003,CR00016,1,0.0,Amber Torres,32,Male,Design,4,1.56,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00003,CR00018,1,0.0,Amber Torres,32,Male,Design,4,1.56,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00003,CR00019,2,0.0,Amber Torres,32,Male,Design,4,1.56,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00003,CR00020,2,0.0,Amber Torres,32,Male,Design,4,1.56,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00003,CR00028,1,0.78,Amber Torres,32,Male,Design,4,1.56,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00003,CR00030,1,0.0,Amber Torres,32,Male,Design,4,1.56,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00004,CR00011,1,326.02,Kristi Scott,34,Female,Machine Learning,9,4.39,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00004,CR00013,4,0.0,Kristi Scott,34,Female,Machine Learning,9,4.39,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00004,CR00015,1,285.05,Kristi Scott,34,Female,Machine Learning,9,4.39,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00004,CR00026,9,0.0,Kristi Scott,34,Female,Machine Learning,9,4.39,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,True,172,18,9.555555555555555
+TC00004,CR00027,9,0.0,Kristi Scott,34,Female,Machine Learning,9,4.39,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,True,152,17,8.941176470588236
+TC00004,CR00028,7,5.46,Kristi Scott,34,Female,Machine Learning,9,4.39,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,True,171,21,8.142857142857142
+TC00004,CR00029,11,0.0,Kristi Scott,34,Female,Machine Learning,9,4.39,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,True,155,20,7.75
+TC00004,CR00030,5,0.0,Kristi Scott,34,Female,Machine Learning,9,4.39,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,True,169,21,8.047619047619047
+TC00005,CR00001,1,472.28,David Williams,34,Male,Finance,2,3.11,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00005,CR00003,1,0.0,David Williams,34,Male,Finance,2,3.11,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00005,CR00005,3,0.0,David Williams,34,Male,Finance,2,3.11,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00005,CR00006,1,276.37,David Williams,34,Male,Finance,2,3.11,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00005,CR00007,1,0.0,David Williams,34,Male,Finance,2,3.11,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00005,CR00009,1,0.0,David Williams,34,Male,Finance,2,3.11,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00005,CR00010,1,0.0,David Williams,34,Male,Finance,2,3.11,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00005,CR00016,2,0.0,David Williams,34,Male,Finance,2,3.11,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00005,CR00019,1,0.0,David Williams,34,Male,Finance,2,3.11,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00005,CR00020,1,0.0,David Williams,34,Male,Finance,2,3.11,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00005,CR00041,5,269.3,David Williams,34,Male,Finance,2,3.11,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00005,CR00042,5,0.0,David Williams,34,Male,Finance,2,3.11,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00005,CR00043,4,0.0,David Williams,34,Male,Finance,2,3.11,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00005,CR00044,3,357.12,David Williams,34,Male,Finance,2,3.11,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,True,161,7,23.0
+TC00005,CR00045,13,0.0,David Williams,34,Male,Finance,2,3.11,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00005,CR00051,2,75.78,David Williams,34,Male,Finance,2,3.11,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00005,CR00052,1,0.0,David Williams,34,Male,Finance,2,3.11,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00005,CR00055,1,57.32,David Williams,34,Male,Finance,2,3.11,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00006,CR00003,3,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00006,CR00004,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00006,CR00007,2,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00006,CR00008,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00006,CR00016,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00006,CR00017,4,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00006,CR00019,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00006,CR00020,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00006,CR00031,4,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00006,CR00032,7,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00006,CR00033,8,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00006,CR00034,5,1971.3,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00006,CR00035,7,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00006,CR00051,2,75.78,Rebecca Webb,49,Male,Cybersecurity,14,3.36,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00006,CR00053,1,0.0,Rebecca Webb,49,Male,Cybersecurity,14,3.36,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00007,CR00011,2,652.04,Angela Beard,28,Female,Machine Learning,6,4.36,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00007,CR00012,3,1463.76,Angela Beard,28,Female,Machine Learning,6,4.36,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00007,CR00013,1,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00007,CR00014,1,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00007,CR00026,8,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,True,172,18,9.555555555555555
+TC00007,CR00027,9,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,True,152,17,8.941176470588236
+TC00007,CR00028,5,3.9000000000000004,Angela Beard,28,Female,Machine Learning,6,4.36,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,True,171,21,8.142857142857142
+TC00007,CR00029,11,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,True,155,20,7.75
+TC00007,CR00030,9,0.0,Angela Beard,28,Female,Machine Learning,6,4.36,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,True,169,21,8.047619047619047
+TC00008,CR00012,3,1463.76,Steven Walker,41,Male,Data Science,15,3.54,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00008,CR00013,2,0.0,Steven Walker,41,Male,Data Science,15,3.54,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00008,CR00014,3,0.0,Steven Walker,41,Male,Data Science,15,3.54,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00008,CR00015,3,855.1500000000001,Steven Walker,41,Male,Data Science,15,3.54,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00008,CR00021,30,0.0,Steven Walker,41,Male,Data Science,15,3.54,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,True,196,7,28.0
+TC00008,CR00022,22,0.0,Steven Walker,41,Male,Data Science,15,3.54,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,True,177,7,25.285714285714285
+TC00008,CR00023,23,0.0,Steven Walker,41,Male,Data Science,15,3.54,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,True,185,7,26.428571428571427
+TC00008,CR00024,25,2942.0,Steven Walker,41,Male,Data Science,15,3.54,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,True,166,7,23.714285714285715
+TC00008,CR00025,22,6590.54,Steven Walker,41,Male,Data Science,15,3.54,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,True,192,7,27.428571428571427
+TC00009,CR00001,2,944.56,Alexander Tucker,49,Female,Project Management,2,2.22,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00009,CR00003,1,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00009,CR00004,6,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00009,CR00005,1,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00009,CR00017,2,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00009,CR00018,1,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00009,CR00019,2,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00009,CR00028,1,0.78,Alexander Tucker,49,Female,Project Management,2,2.22,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00009,CR00029,1,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00009,CR00030,2,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00009,CR00036,4,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,True,177,7,25.285714285714285
+TC00009,CR00037,9,0.0,Alexander Tucker,49,Female,Project Management,2,2.22,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,True,153,7,21.857142857142858
+TC00009,CR00038,12,4111.32,Alexander Tucker,49,Female,Project Management,2,2.22,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,True,158,7,22.571428571428573
+TC00009,CR00039,10,3467.1,Alexander Tucker,49,Female,Project Management,2,2.22,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,True,167,7,23.857142857142858
+TC00009,CR00040,4,1311.96,Alexander Tucker,49,Female,Project Management,2,2.22,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,True,174,7,24.857142857142858
+TC00010,CR00001,1,472.28,Frances Sanchez,29,Male,Data Science,1,2.18,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00010,CR00003,2,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00010,CR00004,2,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00010,CR00005,1,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00010,CR00016,2,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00010,CR00017,1,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00010,CR00018,3,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00010,CR00019,1,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00010,CR00020,1,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00010,CR00021,6,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,True,196,7,28.0
+TC00010,CR00022,13,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,True,177,7,25.285714285714285
+TC00010,CR00023,20,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,True,185,7,26.428571428571427
+TC00010,CR00024,9,1059.1200000000001,Frances Sanchez,29,Male,Data Science,1,2.18,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,True,166,7,23.714285714285715
+TC00010,CR00025,14,4193.98,Frances Sanchez,29,Male,Data Science,1,2.18,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,True,192,7,27.428571428571427
+TC00010,CR00026,2,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00010,CR00028,2,1.56,Frances Sanchez,29,Male,Data Science,1,2.18,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00010,CR00029,1,0.0,Frances Sanchez,29,Male,Data Science,1,2.18,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00011,CR00011,1,326.02,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00011,CR00013,1,0.0,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00011,CR00014,3,0.0,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00011,CR00015,2,570.1,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00011,CR00046,6,1488.6,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00011,CR00047,12,1075.08,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00011,CR00048,6,0.0,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00011,CR00049,8,3324.08,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00011,CR00050,7,3436.2999999999997,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00012,CR00012,2,975.84,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00012,CR00013,1,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00012,CR00014,1,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00012,CR00015,1,285.05,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00012,CR00031,3,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00012,CR00032,4,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00012,CR00033,6,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00012,CR00034,1,394.26,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00012,CR00035,7,0.0,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00013,CR00004,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00013,CR00007,2,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00013,CR00008,2,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00013,CR00009,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00013,CR00010,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00013,CR00016,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00013,CR00019,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00013,CR00051,1,37.89,Brian Carrillo,35,Female,Digital Marketing,6,3.42,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00013,CR00054,2,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00013,CR00056,2,424.78,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00013,CR00057,2,354.68,Brian Carrillo,35,Female,Digital Marketing,6,3.42,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00013,CR00058,3,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00013,CR00059,3,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00013,CR00060,1,0.0,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00014,CR00003,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00014,CR00005,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00014,CR00016,2,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00014,CR00017,2,0.0,Susan Randolph,49,Male,Project Management,3,2.45,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00014,CR00020,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00014,CR00026,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00014,CR00029,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00014,CR00030,1,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00014,CR00036,11,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,True,177,7,25.285714285714285
+TC00014,CR00037,7,0.0,Susan Randolph,49,Male,Project Management,3,2.45,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,True,153,7,21.857142857142858
+TC00014,CR00038,7,2398.27,Susan Randolph,49,Male,Project Management,3,2.45,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,True,158,7,22.571428571428573
+TC00014,CR00039,7,2426.97,Susan Randolph,49,Male,Project Management,3,2.45,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,True,167,7,23.857142857142858
+TC00014,CR00040,15,4919.85,Susan Randolph,49,Male,Project Management,3,2.45,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,True,174,7,24.857142857142858
+TC00015,CR00001,1,472.28,John Armstrong,43,Male,Data Science,7,3.07,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00015,CR00002,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00015,CR00003,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00015,CR00004,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00015,CR00005,2,0.0,John Armstrong,43,Male,Data Science,7,3.07,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00015,CR00007,2,0.0,John Armstrong,43,Male,Data Science,7,3.07,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00015,CR00008,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00015,CR00010,2,0.0,John Armstrong,43,Male,Data Science,7,3.07,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00015,CR00016,2,0.0,John Armstrong,43,Male,Data Science,7,3.07,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00015,CR00017,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00015,CR00018,3,0.0,John Armstrong,43,Male,Data Science,7,3.07,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00015,CR00021,9,0.0,John Armstrong,43,Male,Data Science,7,3.07,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,True,196,7,28.0
+TC00015,CR00022,6,0.0,John Armstrong,43,Male,Data Science,7,3.07,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,True,177,7,25.285714285714285
+TC00015,CR00023,8,0.0,John Armstrong,43,Male,Data Science,7,3.07,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,True,185,7,26.428571428571427
+TC00015,CR00024,5,588.4000000000001,John Armstrong,43,Male,Data Science,7,3.07,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,True,166,7,23.714285714285715
+TC00015,CR00025,11,3295.27,John Armstrong,43,Male,Data Science,7,3.07,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,True,192,7,27.428571428571427
+TC00015,CR00051,1,37.89,John Armstrong,43,Male,Data Science,7,3.07,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00015,CR00052,1,0.0,John Armstrong,43,Male,Data Science,7,3.07,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00015,CR00054,2,0.0,John Armstrong,43,Male,Data Science,7,3.07,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00015,CR00055,1,57.32,John Armstrong,43,Male,Data Science,7,3.07,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00016,CR00001,2,944.56,David Carlson,33,Male,Data Science,1,2.92,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00016,CR00002,1,0.0,David Carlson,33,Male,Data Science,1,2.92,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00016,CR00003,1,0.0,David Carlson,33,Male,Data Science,1,2.92,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00016,CR00004,1,0.0,David Carlson,33,Male,Data Science,1,2.92,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00016,CR00005,3,0.0,David Carlson,33,Male,Data Science,1,2.92,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00016,CR00017,2,0.0,David Carlson,33,Male,Data Science,1,2.92,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00016,CR00018,1,0.0,David Carlson,33,Male,Data Science,1,2.92,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00016,CR00019,2,0.0,David Carlson,33,Male,Data Science,1,2.92,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00016,CR00021,22,0.0,David Carlson,33,Male,Data Science,1,2.92,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,True,196,7,28.0
+TC00016,CR00022,16,0.0,David Carlson,33,Male,Data Science,1,2.92,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,True,177,7,25.285714285714285
+TC00016,CR00023,15,0.0,David Carlson,33,Male,Data Science,1,2.92,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,True,185,7,26.428571428571427
+TC00016,CR00024,21,2471.28,David Carlson,33,Male,Data Science,1,2.92,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,True,166,7,23.714285714285715
+TC00016,CR00025,14,4193.98,David Carlson,33,Male,Data Science,1,2.92,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,True,192,7,27.428571428571427
+TC00016,CR00026,4,0.0,David Carlson,33,Male,Data Science,1,2.92,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00016,CR00028,1,0.78,David Carlson,33,Male,Data Science,1,2.92,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00016,CR00029,1,0.0,David Carlson,33,Male,Data Science,1,2.92,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00016,CR00030,1,0.0,David Carlson,33,Male,Data Science,1,2.92,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00017,CR00001,3,1416.84,Brian Perez,36,Male,Digital Marketing,4,2.33,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00017,CR00002,1,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00017,CR00003,2,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00017,CR00004,4,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00017,CR00016,2,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00017,CR00017,1,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00017,CR00019,1,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00017,CR00020,2,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00017,CR00027,1,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00017,CR00028,1,0.78,Brian Perez,36,Male,Digital Marketing,4,2.33,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00017,CR00029,2,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00017,CR00030,2,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00017,CR00056,4,849.56,Brian Perez,36,Male,Digital Marketing,4,2.33,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00017,CR00057,2,354.68,Brian Perez,36,Male,Digital Marketing,4,2.33,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00017,CR00058,11,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00017,CR00059,5,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00017,CR00060,7,0.0,Brian Perez,36,Male,Digital Marketing,4,2.33,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00018,CR00012,2,975.84,Kari Pierce,47,Female,Project Management,11,4.28,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00018,CR00013,1,0.0,Kari Pierce,47,Female,Project Management,11,4.28,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00018,CR00015,1,285.05,Kari Pierce,47,Female,Project Management,11,4.28,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00018,CR00036,20,0.0,Kari Pierce,47,Female,Project Management,11,4.28,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,True,177,7,25.285714285714285
+TC00018,CR00037,18,0.0,Kari Pierce,47,Female,Project Management,11,4.28,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,True,153,7,21.857142857142858
+TC00018,CR00038,19,6509.59,Kari Pierce,47,Female,Project Management,11,4.28,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,True,158,7,22.571428571428573
+TC00018,CR00039,19,6587.49,Kari Pierce,47,Female,Project Management,11,4.28,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,True,167,7,23.857142857142858
+TC00018,CR00040,13,4263.87,Kari Pierce,47,Female,Project Management,11,4.28,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,True,174,7,24.857142857142858
+TC00019,CR00001,1,472.28,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00019,CR00002,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00019,CR00003,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00019,CR00004,2,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00019,CR00006,2,552.74,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00019,CR00007,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00019,CR00009,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00019,CR00017,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00019,CR00020,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00019,CR00052,2,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00019,CR00053,1,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00019,CR00054,2,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00019,CR00056,3,637.17,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00019,CR00057,1,177.34,Tommy Haynes,35,Male,Digital Marketing,8,3.4,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00019,CR00058,5,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00019,CR00059,3,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00019,CR00060,7,0.0,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00020,CR00008,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00020,CR00009,2,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00020,CR00016,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00020,CR00017,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00020,CR00018,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00020,CR00020,2,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00020,CR00053,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00020,CR00054,1,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00020,CR00055,3,171.96,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00020,CR00056,2,424.78,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00020,CR00057,1,177.34,Tara Reynolds,44,Female,Digital Marketing,10,3.23,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00020,CR00058,4,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00020,CR00059,3,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00020,CR00060,2,0.0,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00021,CR00011,1,326.02,Adam Holmes,34,Female,Machine Learning,2,3.99,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00021,CR00012,1,487.92,Adam Holmes,34,Female,Machine Learning,2,3.99,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00021,CR00013,1,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00021,CR00014,1,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00021,CR00026,10,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,True,172,18,9.555555555555555
+TC00021,CR00027,5,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,True,152,17,8.941176470588236
+TC00021,CR00028,13,10.14,Adam Holmes,34,Female,Machine Learning,2,3.99,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,True,171,21,8.142857142857142
+TC00021,CR00029,12,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,True,155,20,7.75
+TC00021,CR00030,7,0.0,Adam Holmes,34,Female,Machine Learning,2,3.99,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,True,169,21,8.047619047619047
+TC00022,CR00001,2,944.56,John Holmes,33,Male,Digital Marketing,3,2.5,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00022,CR00002,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00022,CR00003,2,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00022,CR00004,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00022,CR00005,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00022,CR00018,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00022,CR00026,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00022,CR00027,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00022,CR00028,2,1.56,John Holmes,33,Male,Digital Marketing,3,2.5,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00022,CR00029,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00022,CR00030,1,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00022,CR00056,2,424.78,John Holmes,33,Male,Digital Marketing,3,2.5,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00022,CR00057,6,1064.04,John Holmes,33,Male,Digital Marketing,3,2.5,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00022,CR00058,6,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00022,CR00059,9,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00022,CR00060,5,0.0,John Holmes,33,Male,Digital Marketing,3,2.5,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00023,CR00001,2,944.56,Robert Mack,32,Male,Finance,4,2.99,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00023,CR00002,3,0.0,Robert Mack,32,Male,Finance,4,2.99,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00023,CR00003,2,0.0,Robert Mack,32,Male,Finance,4,2.99,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00023,CR00004,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00023,CR00005,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00023,CR00016,2,0.0,Robert Mack,32,Male,Finance,4,2.99,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00023,CR00017,1,0.0,Robert Mack,32,Male,Finance,4,2.99,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00023,CR00018,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00023,CR00019,3,0.0,Robert Mack,32,Male,Finance,4,2.99,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00023,CR00026,2,0.0,Robert Mack,32,Male,Finance,4,2.99,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00023,CR00027,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00023,CR00029,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00023,CR00030,1,0.0,Robert Mack,32,Male,Finance,4,2.99,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00023,CR00041,15,807.9,Robert Mack,32,Male,Finance,4,2.99,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00023,CR00042,19,0.0,Robert Mack,32,Male,Finance,4,2.99,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00023,CR00043,18,0.0,Robert Mack,32,Male,Finance,4,2.99,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00023,CR00044,13,1547.52,Robert Mack,32,Male,Finance,4,2.99,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,True,161,7,23.0
+TC00023,CR00045,9,0.0,Robert Mack,32,Male,Finance,4,2.99,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00024,CR00011,1,326.02,Michael Kim,40,Male,Digital Marketing,6,4.22,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00024,CR00013,1,0.0,Michael Kim,40,Male,Digital Marketing,6,4.22,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00024,CR00014,2,0.0,Michael Kim,40,Male,Digital Marketing,6,4.22,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00024,CR00056,13,2761.0699999999997,Michael Kim,40,Male,Digital Marketing,6,4.22,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00024,CR00057,12,2128.08,Michael Kim,40,Male,Digital Marketing,6,4.22,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00024,CR00058,10,0.0,Michael Kim,40,Male,Digital Marketing,6,4.22,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00024,CR00059,9,0.0,Michael Kim,40,Male,Digital Marketing,6,4.22,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00024,CR00060,9,0.0,Michael Kim,40,Male,Digital Marketing,6,4.22,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00025,CR00002,1,0.0,Justin Pham,29,Male,Web Development,4,2.17,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00025,CR00003,1,0.0,Justin Pham,29,Male,Web Development,4,2.17,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00025,CR00005,2,0.0,Justin Pham,29,Male,Web Development,4,2.17,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00025,CR00016,2,0.0,Justin Pham,29,Male,Web Development,4,2.17,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00025,CR00018,3,0.0,Justin Pham,29,Male,Web Development,4,2.17,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00025,CR00019,1,0.0,Justin Pham,29,Male,Web Development,4,2.17,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00025,CR00026,3,0.0,Justin Pham,29,Male,Web Development,4,2.17,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00025,CR00027,3,0.0,Justin Pham,29,Male,Web Development,4,2.17,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00025,CR00028,2,1.56,Justin Pham,29,Male,Web Development,4,2.17,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00025,CR00030,3,0.0,Justin Pham,29,Male,Web Development,4,2.17,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00025,CR00051,2,75.78,Justin Pham,29,Male,Web Development,4,2.17,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,True,171,20,8.55
+TC00025,CR00052,11,0.0,Justin Pham,29,Male,Web Development,4,2.17,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,True,154,15,10.266666666666667
+TC00025,CR00053,3,0.0,Justin Pham,29,Male,Web Development,4,2.17,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,True,163,17,9.588235294117647
+TC00025,CR00054,6,0.0,Justin Pham,29,Male,Web Development,4,2.17,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,True,178,21,8.476190476190476
+TC00025,CR00055,5,286.6,Justin Pham,29,Male,Web Development,4,2.17,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,True,178,18,9.88888888888889
+TC00026,CR00001,2,944.56,Patrick Wilson,29,Male,Web Development,1,2.83,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00026,CR00002,2,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00026,CR00004,1,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00026,CR00016,1,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00026,CR00019,2,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00026,CR00020,2,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00026,CR00026,2,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00026,CR00028,2,1.56,Patrick Wilson,29,Male,Web Development,1,2.83,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00026,CR00029,1,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00026,CR00030,1,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00026,CR00051,3,113.67,Patrick Wilson,29,Male,Web Development,1,2.83,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,True,171,20,8.55
+TC00026,CR00052,6,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,True,154,15,10.266666666666667
+TC00026,CR00053,10,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,True,163,17,9.588235294117647
+TC00026,CR00054,8,0.0,Patrick Wilson,29,Male,Web Development,1,2.83,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,True,178,21,8.476190476190476
+TC00026,CR00055,8,458.56,Patrick Wilson,29,Male,Web Development,1,2.83,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,True,178,18,9.88888888888889
+TC00027,CR00001,1,472.28,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00027,CR00016,1,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00027,CR00017,2,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00027,CR00018,1,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00027,CR00020,3,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00027,CR00027,4,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00027,CR00028,1,0.78,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00027,CR00029,1,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00027,CR00046,21,5210.099999999999,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00027,CR00047,23,2060.57,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00027,CR00048,27,0.0,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00027,CR00049,21,8725.71,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00027,CR00050,27,13254.3,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00028,CR00001,2,944.56,Timothy Bailey,27,Female,Business,3,1.06,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00028,CR00002,3,0.0,Timothy Bailey,27,Female,Business,3,1.06,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00028,CR00003,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00028,CR00004,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00028,CR00005,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00028,CR00011,24,7824.48,Timothy Bailey,27,Female,Business,3,1.06,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,True,151,16,9.4375
+TC00028,CR00012,30,14637.6,Timothy Bailey,27,Female,Business,3,1.06,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,True,173,18,9.61111111111111
+TC00028,CR00013,30,0.0,Timothy Bailey,27,Female,Business,3,1.06,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,True,170,20,8.5
+TC00028,CR00014,34,0.0,Timothy Bailey,27,Female,Business,3,1.06,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,True,171,18,9.5
+TC00028,CR00015,27,7696.35,Timothy Bailey,27,Female,Business,3,1.06,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,True,168,19,8.842105263157896
+TC00028,CR00016,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00028,CR00017,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00028,CR00019,2,0.0,Timothy Bailey,27,Female,Business,3,1.06,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00028,CR00020,2,0.0,Timothy Bailey,27,Female,Business,3,1.06,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00028,CR00027,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00028,CR00029,1,0.0,Timothy Bailey,27,Female,Business,3,1.06,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00029,CR00004,1,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00029,CR00005,3,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00029,CR00006,1,276.37,David Webb,50,Male,Artificial Intelligence,2,3.1,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00029,CR00007,1,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00029,CR00009,2,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00029,CR00010,1,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00029,CR00016,2,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00029,CR00017,2,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00029,CR00018,1,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00029,CR00046,4,992.4,David Webb,50,Male,Artificial Intelligence,2,3.1,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00029,CR00047,10,895.9000000000001,David Webb,50,Male,Artificial Intelligence,2,3.1,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00029,CR00048,11,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00029,CR00049,10,4155.1,David Webb,50,Male,Artificial Intelligence,2,3.1,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00029,CR00050,10,4909.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00029,CR00051,1,37.89,David Webb,50,Male,Artificial Intelligence,2,3.1,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00029,CR00053,3,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00029,CR00054,2,0.0,David Webb,50,Male,Artificial Intelligence,2,3.1,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00029,CR00055,1,57.32,David Webb,50,Male,Artificial Intelligence,2,3.1,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00030,CR00001,1,472.28,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00030,CR00004,1,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00030,CR00005,1,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00030,CR00007,2,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00030,CR00009,2,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00030,CR00010,1,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00030,CR00016,1,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00030,CR00017,1,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00030,CR00019,2,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00030,CR00020,2,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00030,CR00046,5,1240.5,David Aguirre,50,Male,Artificial Intelligence,6,3.01,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00030,CR00047,11,985.49,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00030,CR00048,3,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00030,CR00049,8,3324.08,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00030,CR00050,10,4909.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00030,CR00051,1,37.89,David Aguirre,50,Male,Artificial Intelligence,6,3.01,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00030,CR00053,2,0.0,David Aguirre,50,Male,Artificial Intelligence,6,3.01,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00031,CR00001,2,944.56,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00031,CR00003,1,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00031,CR00005,1,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00031,CR00016,1,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00031,CR00018,2,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00031,CR00019,2,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00031,CR00020,1,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00031,CR00026,4,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00031,CR00028,3,2.34,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00031,CR00030,1,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00031,CR00031,33,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00031,CR00032,29,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00031,CR00033,33,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00031,CR00034,21,8279.46,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00031,CR00035,30,0.0,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00032,CR00004,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00032,CR00005,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00032,CR00006,1,276.37,James Holder,44,Male,Cybersecurity,1,3.11,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00032,CR00009,2,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00032,CR00010,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00032,CR00016,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00032,CR00031,6,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00032,CR00032,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00032,CR00033,4,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00032,CR00034,5,1971.3,James Holder,44,Male,Cybersecurity,1,3.11,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00032,CR00035,7,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00032,CR00051,1,37.89,James Holder,44,Male,Cybersecurity,1,3.11,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00032,CR00052,2,0.0,James Holder,44,Male,Cybersecurity,1,3.11,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00032,CR00054,1,0.0,James Holder,44,Male,Cybersecurity,1,3.11,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00032,CR00055,2,114.64,James Holder,44,Male,Cybersecurity,1,3.11,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00033,CR00006,27,7461.99,Wesley Garcia,39,Female,Design,12,4.04,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,True,156,15,10.4
+TC00033,CR00007,26,0.0,Wesley Garcia,39,Female,Design,12,4.04,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,True,178,16,11.125
+TC00033,CR00008,21,0.0,Wesley Garcia,39,Female,Design,12,4.04,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,True,158,15,10.533333333333333
+TC00033,CR00009,29,0.0,Wesley Garcia,39,Female,Design,12,4.04,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,True,155,19,8.157894736842104
+TC00033,CR00010,28,0.0,Wesley Garcia,39,Female,Design,12,4.04,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,True,180,18,10.0
+TC00033,CR00011,4,1304.08,Wesley Garcia,39,Female,Design,12,4.04,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00033,CR00012,1,487.92,Wesley Garcia,39,Female,Design,12,4.04,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00033,CR00015,1,285.05,Wesley Garcia,39,Female,Design,12,4.04,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00034,CR00003,1,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00034,CR00016,3,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00034,CR00017,3,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00034,CR00018,1,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00034,CR00020,1,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00034,CR00026,1,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00034,CR00027,2,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00034,CR00028,2,1.56,Brandon Dawson,38,Male,Web Development,3,2.79,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00034,CR00029,1,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00034,CR00030,3,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00034,CR00051,8,303.12,Brandon Dawson,38,Male,Web Development,3,2.79,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,True,171,20,8.55
+TC00034,CR00052,3,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,True,154,15,10.266666666666667
+TC00034,CR00053,8,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,True,163,17,9.588235294117647
+TC00034,CR00054,8,0.0,Brandon Dawson,38,Male,Web Development,3,2.79,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,True,178,21,8.476190476190476
+TC00034,CR00055,6,343.92,Brandon Dawson,38,Male,Web Development,3,2.79,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,True,178,18,9.88888888888889
+TC00035,CR00001,1,472.28,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00035,CR00003,3,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00035,CR00006,2,552.74,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00035,CR00007,1,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00035,CR00010,2,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00035,CR00017,2,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00035,CR00051,1,37.89,Sharon Jackson,27,Male,Digital Marketing,5,3.13,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00035,CR00053,1,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00035,CR00054,1,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00035,CR00056,3,637.17,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00035,CR00057,7,1241.38,Sharon Jackson,27,Male,Digital Marketing,5,3.13,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00035,CR00058,5,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00035,CR00059,6,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00035,CR00060,3,0.0,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00036,CR00001,1,472.28,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00036,CR00003,2,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00036,CR00004,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00036,CR00005,2,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00036,CR00016,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00036,CR00017,2,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00036,CR00019,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00036,CR00027,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00036,CR00029,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00036,CR00030,1,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00036,CR00056,5,1061.9499999999998,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00036,CR00057,6,1064.04,Brenda Mclean,28,Male,Digital Marketing,4,1.39,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00036,CR00058,3,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00036,CR00059,9,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00036,CR00060,10,0.0,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00037,CR00011,1,326.02,Debra Escobar,47,Male,Finance,8,4.39,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00037,CR00012,1,487.92,Debra Escobar,47,Male,Finance,8,4.39,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00037,CR00013,2,0.0,Debra Escobar,47,Male,Finance,8,4.39,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00037,CR00014,1,0.0,Debra Escobar,47,Male,Finance,8,4.39,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00037,CR00015,1,285.05,Debra Escobar,47,Male,Finance,8,4.39,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00037,CR00041,16,861.76,Debra Escobar,47,Male,Finance,8,4.39,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00037,CR00042,30,0.0,Debra Escobar,47,Male,Finance,8,4.39,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00037,CR00043,18,0.0,Debra Escobar,47,Male,Finance,8,4.39,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00037,CR00044,26,3095.04,Debra Escobar,47,Male,Finance,8,4.39,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,True,161,7,23.0
+TC00037,CR00045,21,0.0,Debra Escobar,47,Male,Finance,8,4.39,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00038,CR00001,1,472.28,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00038,CR00003,3,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00038,CR00004,2,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00038,CR00005,1,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00038,CR00016,1,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00038,CR00017,1,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00038,CR00018,3,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00038,CR00020,2,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00038,CR00026,3,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00038,CR00027,2,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00038,CR00028,4,3.12,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00038,CR00029,3,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00038,CR00030,2,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00038,CR00056,9,1911.5099999999998,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00038,CR00057,8,1418.72,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00038,CR00058,8,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00038,CR00059,10,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,True,161,12,13.416666666666666
+TC00038,CR00060,7,0.0,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00039,CR00001,1,472.28,Elizabeth Bishop,34,Male,Finance,7,3.31,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00039,CR00002,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00039,CR00003,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00039,CR00004,3,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00039,CR00007,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00039,CR00008,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00039,CR00010,2,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00039,CR00017,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00039,CR00018,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00039,CR00019,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00039,CR00041,5,269.3,Elizabeth Bishop,34,Male,Finance,7,3.31,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00039,CR00042,9,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00039,CR00043,8,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00039,CR00045,3,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00039,CR00053,1,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00039,CR00054,2,0.0,Elizabeth Bishop,34,Male,Finance,7,3.31,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00040,CR00001,46,21724.879999999997,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00040,CR00002,47,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00040,CR00003,69,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00040,CR00004,47,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00040,CR00005,52,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00040,CR00006,43,11883.91,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00040,CR00007,52,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00040,CR00008,45,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00040,CR00009,38,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00040,CR00010,52,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00040,CR00011,51,16627.02,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00040,CR00012,45,21956.4,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00040,CR00013,51,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00040,CR00014,54,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00040,CR00015,40,11402.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00040,CR00016,47,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00040,CR00017,42,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00040,CR00018,52,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00040,CR00019,53,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00040,CR00020,48,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00040,CR00021,71,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,False,196,7,28.0
+TC00040,CR00022,66,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,False,177,7,25.285714285714285
+TC00040,CR00023,53,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,False,185,7,26.428571428571427
+TC00040,CR00024,46,5413.280000000001,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,False,166,7,23.714285714285715
+TC00040,CR00025,54,16176.779999999999,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,False,192,7,27.428571428571427
+TC00040,CR00031,90,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00040,CR00032,93,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00040,CR00033,97,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00040,CR00034,92,36271.92,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00040,CR00035,103,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00040,CR00036,56,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,False,177,7,25.285714285714285
+TC00040,CR00037,50,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,False,153,7,21.857142857142858
+TC00040,CR00038,54,18500.940000000002,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,False,158,7,22.571428571428573
+TC00040,CR00039,42,14561.82,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,False,167,7,23.857142857142858
+TC00040,CR00040,57,18695.43,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,False,174,7,24.857142857142858
+TC00040,CR00041,68,3662.48,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,False,166,8,20.75
+TC00040,CR00042,48,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,False,183,8,22.875
+TC00040,CR00043,65,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,False,182,8,22.75
+TC00040,CR00044,55,6547.200000000001,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,False,161,7,23.0
+TC00040,CR00045,60,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,False,172,8,21.5
+TC00040,CR00046,49,12156.9,Kimberly Miller,49,Male,Cybersecurity,24,4.58,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,False,140,8,17.5
+TC00040,CR00047,47,4210.7300000000005,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,False,166,8,20.75
+TC00040,CR00048,51,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,False,186,8,23.25
+TC00040,CR00049,39,16204.89,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,False,163,8,20.375
+TC00040,CR00050,54,26508.6,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,False,174,8,21.75
+TC00040,CR00051,48,1818.72,Kimberly Miller,49,Male,Cybersecurity,24,4.58,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00040,CR00052,40,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00040,CR00053,52,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00040,CR00054,48,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00040,CR00055,61,3496.52,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00040,CR00056,43,9132.769999999999,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,False,148,13,11.384615384615385
+TC00040,CR00057,45,7980.3,Kimberly Miller,49,Male,Cybersecurity,24,4.58,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,False,140,13,10.76923076923077
+TC00040,CR00058,61,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,False,194,13,14.923076923076923
+TC00040,CR00059,44,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,False,161,12,13.416666666666666
+TC00040,CR00060,49,0.0,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,False,165,13,12.692307692307692
+TC00041,CR00011,1,326.02,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00041,CR00014,3,0.0,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00041,CR00046,5,1240.5,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00041,CR00047,7,627.13,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00041,CR00048,11,0.0,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00041,CR00049,10,4155.1,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00041,CR00050,7,3436.2999999999997,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00042,CR00001,63,29753.64,Yolanda Levine,49,Female,Machine Learning,21,4.97,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00042,CR00002,51,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00042,CR00003,39,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00042,CR00004,45,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00042,CR00005,47,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00042,CR00006,52,14371.24,Yolanda Levine,49,Female,Machine Learning,21,4.97,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00042,CR00007,51,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00042,CR00008,51,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00042,CR00009,44,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00042,CR00010,52,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00042,CR00011,41,13366.82,Yolanda Levine,49,Female,Machine Learning,21,4.97,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00042,CR00012,58,28299.36,Yolanda Levine,49,Female,Machine Learning,21,4.97,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00042,CR00013,47,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00042,CR00014,43,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00042,CR00015,68,19383.4,Yolanda Levine,49,Female,Machine Learning,21,4.97,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00042,CR00016,52,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00042,CR00017,52,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00042,CR00018,52,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00042,CR00019,60,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00042,CR00020,47,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00042,CR00021,51,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,False,196,7,28.0
+TC00042,CR00022,50,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,False,177,7,25.285714285714285
+TC00042,CR00023,59,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,False,185,7,26.428571428571427
+TC00042,CR00024,56,6590.08,Yolanda Levine,49,Female,Machine Learning,21,4.97,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,False,166,7,23.714285714285715
+TC00042,CR00025,64,19172.48,Yolanda Levine,49,Female,Machine Learning,21,4.97,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,False,192,7,27.428571428571427
+TC00042,CR00026,100,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,True,172,18,9.555555555555555
+TC00042,CR00027,90,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,True,152,17,8.941176470588236
+TC00042,CR00028,99,77.22,Yolanda Levine,49,Female,Machine Learning,21,4.97,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,True,171,21,8.142857142857142
+TC00042,CR00029,92,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,True,155,20,7.75
+TC00042,CR00030,107,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,True,169,21,8.047619047619047
+TC00042,CR00036,57,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,False,177,7,25.285714285714285
+TC00042,CR00037,41,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,False,153,7,21.857142857142858
+TC00042,CR00038,50,17130.5,Yolanda Levine,49,Female,Machine Learning,21,4.97,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,False,158,7,22.571428571428573
+TC00042,CR00039,63,21842.73,Yolanda Levine,49,Female,Machine Learning,21,4.97,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,False,167,7,23.857142857142858
+TC00042,CR00040,55,18039.45,Yolanda Levine,49,Female,Machine Learning,21,4.97,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,False,174,7,24.857142857142858
+TC00042,CR00041,48,2585.2799999999997,Yolanda Levine,49,Female,Machine Learning,21,4.97,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,False,166,8,20.75
+TC00042,CR00042,49,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,False,183,8,22.875
+TC00042,CR00043,49,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,False,182,8,22.75
+TC00042,CR00044,52,6190.08,Yolanda Levine,49,Female,Machine Learning,21,4.97,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,False,161,7,23.0
+TC00042,CR00045,51,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,False,172,8,21.5
+TC00042,CR00046,43,10668.3,Yolanda Levine,49,Female,Machine Learning,21,4.97,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,False,140,8,17.5
+TC00042,CR00047,51,4569.09,Yolanda Levine,49,Female,Machine Learning,21,4.97,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,False,166,8,20.75
+TC00042,CR00048,67,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,False,186,8,23.25
+TC00042,CR00049,60,24930.6,Yolanda Levine,49,Female,Machine Learning,21,4.97,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,False,163,8,20.375
+TC00042,CR00050,48,23563.199999999997,Yolanda Levine,49,Female,Machine Learning,21,4.97,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,False,174,8,21.75
+TC00042,CR00051,54,2046.06,Yolanda Levine,49,Female,Machine Learning,21,4.97,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00042,CR00052,50,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00042,CR00053,42,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00042,CR00054,57,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00042,CR00055,49,2808.68,Yolanda Levine,49,Female,Machine Learning,21,4.97,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00042,CR00056,46,9769.939999999999,Yolanda Levine,49,Female,Machine Learning,21,4.97,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,False,148,13,11.384615384615385
+TC00042,CR00057,37,6561.58,Yolanda Levine,49,Female,Machine Learning,21,4.97,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,False,140,13,10.76923076923077
+TC00042,CR00058,61,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,False,194,13,14.923076923076923
+TC00042,CR00059,44,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Affiliate Marketing,Digital Marketing,Free,Intermediate,0.0,5.95,4.66,False,161,12,13.416666666666666
+TC00042,CR00060,54,0.0,Yolanda Levine,49,Female,Machine Learning,21,4.97,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,False,165,13,12.692307692307692
+TC00043,CR00004,1,0.0,John Williams,30,Female,Project Management,1,1.05,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00043,CR00005,3,0.0,John Williams,30,Female,Project Management,1,1.05,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00043,CR00016,2,0.0,John Williams,30,Female,Project Management,1,1.05,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00043,CR00019,2,0.0,John Williams,30,Female,Project Management,1,1.05,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00043,CR00020,2,0.0,John Williams,30,Female,Project Management,1,1.05,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00043,CR00027,2,0.0,John Williams,30,Female,Project Management,1,1.05,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00043,CR00028,3,2.34,John Williams,30,Female,Project Management,1,1.05,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00043,CR00029,2,0.0,John Williams,30,Female,Project Management,1,1.05,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00043,CR00030,3,0.0,John Williams,30,Female,Project Management,1,1.05,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00043,CR00036,10,0.0,John Williams,30,Female,Project Management,1,1.05,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,True,177,7,25.285714285714285
+TC00043,CR00037,12,0.0,John Williams,30,Female,Project Management,1,1.05,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,True,153,7,21.857142857142858
+TC00043,CR00038,7,2398.27,John Williams,30,Female,Project Management,1,1.05,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,True,158,7,22.571428571428573
+TC00043,CR00039,9,3120.39,John Williams,30,Female,Project Management,1,1.05,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,True,167,7,23.857142857142858
+TC00043,CR00040,10,3279.9,John Williams,30,Female,Project Management,1,1.05,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,True,174,7,24.857142857142858
+TC00044,CR00002,1,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00044,CR00003,3,0.0,Barbara Maynard,27,Male,Finance,4,2.61,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00044,CR00005,1,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00044,CR00016,1,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00044,CR00017,2,0.0,Barbara Maynard,27,Male,Finance,4,2.61,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00044,CR00018,1,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00044,CR00019,3,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00044,CR00026,2,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00044,CR00028,2,1.56,Barbara Maynard,27,Male,Finance,4,2.61,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00044,CR00041,8,430.88,Barbara Maynard,27,Male,Finance,4,2.61,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00044,CR00042,19,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00044,CR00043,10,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00044,CR00044,10,1190.4,Barbara Maynard,27,Male,Finance,4,2.61,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,True,161,7,23.0
+TC00044,CR00045,14,0.0,Barbara Maynard,27,Male,Finance,4,2.61,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00045,CR00001,2,944.56,Emily Gutierrez,28,Female,Web Development,5,1.07,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00045,CR00002,3,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00045,CR00004,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00045,CR00005,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00045,CR00016,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00045,CR00017,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00045,CR00018,2,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00045,CR00019,2,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00045,CR00020,4,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00045,CR00026,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00045,CR00029,1,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,False,155,20,7.75
+TC00045,CR00030,2,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00045,CR00051,10,378.9,Emily Gutierrez,28,Female,Web Development,5,1.07,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,True,171,20,8.55
+TC00045,CR00052,6,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,True,154,15,10.266666666666667
+TC00045,CR00053,11,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,True,163,17,9.588235294117647
+TC00045,CR00054,2,0.0,Emily Gutierrez,28,Female,Web Development,5,1.07,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,True,178,21,8.476190476190476
+TC00045,CR00055,6,343.92,Emily Gutierrez,28,Female,Web Development,5,1.07,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,True,178,18,9.88888888888889
+TC00046,CR00012,1,487.92,Brent Walters,33,Male,Cybersecurity,6,3.87,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00046,CR00013,1,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00046,CR00014,1,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00046,CR00015,1,285.05,Brent Walters,33,Male,Cybersecurity,6,3.87,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00046,CR00031,4,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00046,CR00032,8,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00046,CR00033,4,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00046,CR00034,5,1971.3,Brent Walters,33,Male,Cybersecurity,6,3.87,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00046,CR00035,6,0.0,Brent Walters,33,Male,Cybersecurity,6,3.87,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00047,CR00001,1,472.28,Brad Griffin,27,Male,Design,4,1.79,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00047,CR00002,4,0.0,Brad Griffin,27,Male,Design,4,1.79,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00047,CR00003,2,0.0,Brad Griffin,27,Male,Design,4,1.79,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00047,CR00006,9,2487.33,Brad Griffin,27,Male,Design,4,1.79,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,True,156,15,10.4
+TC00047,CR00007,8,0.0,Brad Griffin,27,Male,Design,4,1.79,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,True,178,16,11.125
+TC00047,CR00008,13,0.0,Brad Griffin,27,Male,Design,4,1.79,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,True,158,15,10.533333333333333
+TC00047,CR00009,12,0.0,Brad Griffin,27,Male,Design,4,1.79,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,True,155,19,8.157894736842104
+TC00047,CR00010,7,0.0,Brad Griffin,27,Male,Design,4,1.79,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,True,180,18,10.0
+TC00047,CR00016,1,0.0,Brad Griffin,27,Male,Design,4,1.79,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00047,CR00018,1,0.0,Brad Griffin,27,Male,Design,4,1.79,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00047,CR00020,3,0.0,Brad Griffin,27,Male,Design,4,1.79,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00047,CR00026,1,0.0,Brad Griffin,27,Male,Design,4,1.79,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,False,172,18,9.555555555555555
+TC00047,CR00027,1,0.0,Brad Griffin,27,Male,Design,4,1.79,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00047,CR00028,2,1.56,Brad Griffin,27,Male,Design,4,1.79,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00048,CR00002,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00048,CR00008,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00048,CR00009,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00048,CR00010,2,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00048,CR00017,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00048,CR00018,3,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00048,CR00041,1,53.86,Theresa Gonzalez,30,Male,Finance,7,3.18,Financial Accounting,Finance,Paid,Beginner,53.86,47.08,2.47,True,166,8,20.75
+TC00048,CR00042,4,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Investment Strategies,Finance,Free,Intermediate,0.0,34.83,4.1,True,183,8,22.875
+TC00048,CR00043,10,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Corporate Finance,Finance,Free,Beginner,0.0,31.77,4.14,True,182,8,22.75
+TC00048,CR00044,2,238.08,Theresa Gonzalez,30,Male,Finance,7,3.18,Personal Finance,Finance,Paid,Intermediate,119.04,23.41,2.75,True,161,7,23.0
+TC00048,CR00045,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Financial Modeling,Finance,Free,Advanced,0.0,6.36,1.59,True,172,8,21.5
+TC00048,CR00051,3,113.67,Theresa Gonzalez,30,Male,Finance,7,3.18,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00048,CR00052,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00048,CR00054,1,0.0,Theresa Gonzalez,30,Male,Finance,7,3.18,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00048,CR00055,1,57.32,Theresa Gonzalez,30,Male,Finance,7,3.18,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00049,CR00002,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00049,CR00005,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00049,CR00006,1,276.37,Valerie Wiley,46,Female,Machine Learning,6,3.46,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00049,CR00009,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00049,CR00018,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00049,CR00019,2,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00049,CR00020,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00049,CR00026,18,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Intro to Machine Learning,Machine Learning,Free,Intermediate,0.0,47.7,4.73,True,172,18,9.555555555555555
+TC00049,CR00027,18,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,True,152,17,8.941176470588236
+TC00049,CR00028,17,13.26,Valerie Wiley,46,Female,Machine Learning,6,3.46,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,True,171,21,8.142857142857142
+TC00049,CR00029,10,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Natural Language Processing,Machine Learning,Free,Beginner,0.0,16.33,1.13,True,155,20,7.75
+TC00049,CR00030,15,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,True,169,21,8.047619047619047
+TC00049,CR00051,1,37.89,Valerie Wiley,46,Female,Machine Learning,6,3.46,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00049,CR00052,1,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00049,CR00054,3,0.0,Valerie Wiley,46,Female,Machine Learning,6,3.46,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00049,CR00055,4,229.28,Valerie Wiley,46,Female,Machine Learning,6,3.46,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00050,CR00001,1,472.28,Alexander Williams,32,Female,Digital Marketing,3,3.41,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,False,164,25,6.56
+TC00050,CR00002,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00050,CR00004,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00050,CR00008,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00050,CR00016,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,False,153,30,5.1
+TC00050,CR00018,2,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00050,CR00019,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00050,CR00020,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00050,CR00053,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00050,CR00054,1,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00050,CR00055,2,114.64,Alexander Williams,32,Female,Digital Marketing,3,3.41,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00050,CR00056,1,212.39,Alexander Williams,32,Female,Digital Marketing,3,3.41,Google Ads Mastery,Digital Marketing,Paid,Advanced,212.39,22.89,3.15,True,148,13,11.384615384615385
+TC00050,CR00057,4,709.36,Alexander Williams,32,Female,Digital Marketing,3,3.41,SEO for E-commerce,Digital Marketing,Paid,Advanced,177.34,49.73,3.89,True,140,13,10.76923076923077
+TC00050,CR00058,2,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Social Media Strategy,Digital Marketing,Free,Beginner,0.0,1.46,4.44,True,194,13,14.923076923076923
+TC00050,CR00060,4,0.0,Alexander Williams,32,Female,Digital Marketing,3,3.41,Content Creation,Digital Marketing,Free,Beginner,0.0,8.95,2.14,True,165,13,12.692307692307692
+TC00051,CR00003,3,0.0,John Obrien,36,Female,Design,2,1.77,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00051,CR00004,1,0.0,John Obrien,36,Female,Design,2,1.77,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00051,CR00005,2,0.0,John Obrien,36,Female,Design,2,1.77,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00051,CR00006,4,1105.48,John Obrien,36,Female,Design,2,1.77,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,True,156,15,10.4
+TC00051,CR00007,8,0.0,John Obrien,36,Female,Design,2,1.77,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,True,178,16,11.125
+TC00051,CR00008,14,0.0,John Obrien,36,Female,Design,2,1.77,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,True,158,15,10.533333333333333
+TC00051,CR00009,8,0.0,John Obrien,36,Female,Design,2,1.77,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,True,155,19,8.157894736842104
+TC00051,CR00010,16,0.0,John Obrien,36,Female,Design,2,1.77,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,True,180,18,10.0
+TC00051,CR00017,1,0.0,John Obrien,36,Female,Design,2,1.77,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00051,CR00018,1,0.0,John Obrien,36,Female,Design,2,1.77,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00051,CR00019,1,0.0,John Obrien,36,Female,Design,2,1.77,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00051,CR00027,2,0.0,John Obrien,36,Female,Design,2,1.77,Neural Networks,Machine Learning,Free,Advanced,0.0,9.3,1.81,False,152,17,8.941176470588236
+TC00051,CR00028,1,0.78,John Obrien,36,Female,Design,2,1.77,Deep Learning,Machine Learning,Paid,Advanced,0.78,44.96,3.89,False,171,21,8.142857142857142
+TC00051,CR00030,1,0.0,John Obrien,36,Female,Design,2,1.77,Reinforcement Learning,Machine Learning,Free,Intermediate,0.0,38.49,1.73,False,169,21,8.047619047619047
+TC00052,CR00002,1,0.0,Susan Johnson,34,Female,Business,12,3.43,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,False,149,20,7.45
+TC00052,CR00003,1,0.0,Susan Johnson,34,Female,Business,12,3.43,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,False,173,27,6.407407407407407
+TC00052,CR00005,2,0.0,Susan Johnson,34,Female,Business,12,3.43,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00052,CR00006,3,829.11,Susan Johnson,34,Female,Business,12,3.43,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00052,CR00009,1,0.0,Susan Johnson,34,Female,Business,12,3.43,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00052,CR00010,3,0.0,Susan Johnson,34,Female,Business,12,3.43,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00052,CR00011,14,4564.28,Susan Johnson,34,Female,Business,12,3.43,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,True,151,16,9.4375
+TC00052,CR00012,16,7806.72,Susan Johnson,34,Female,Business,12,3.43,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,True,173,18,9.61111111111111
+TC00052,CR00013,17,0.0,Susan Johnson,34,Female,Business,12,3.43,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,True,170,20,8.5
+TC00052,CR00014,17,0.0,Susan Johnson,34,Female,Business,12,3.43,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,True,171,18,9.5
+TC00052,CR00015,12,3420.6000000000004,Susan Johnson,34,Female,Business,12,3.43,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,True,168,19,8.842105263157896
+TC00052,CR00017,1,0.0,Susan Johnson,34,Female,Business,12,3.43,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,False,158,28,5.642857142857143
+TC00052,CR00018,1,0.0,Susan Johnson,34,Female,Business,12,3.43,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00052,CR00019,1,0.0,Susan Johnson,34,Female,Business,12,3.43,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00052,CR00020,1,0.0,Susan Johnson,34,Female,Business,12,3.43,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,False,155,25,6.2
+TC00052,CR00051,1,37.89,Susan Johnson,34,Female,Business,12,3.43,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00052,CR00053,1,0.0,Susan Johnson,34,Female,Business,12,3.43,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00052,CR00054,2,0.0,Susan Johnson,34,Female,Business,12,3.43,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00052,CR00055,2,114.64,Susan Johnson,34,Female,Business,12,3.43,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00053,CR00011,4,1304.08,Aaron Kirby,35,Male,Marketing,9,4.29,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00053,CR00012,2,975.84,Aaron Kirby,35,Male,Marketing,9,4.29,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00053,CR00014,2,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00053,CR00015,1,285.05,Aaron Kirby,35,Male,Marketing,9,4.29,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00053,CR00016,16,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,Digital Marketing,Marketing,Free,Intermediate,0.0,42.68,4.72,True,153,30,5.1
+TC00053,CR00017,26,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,SEO Mastery,Marketing,Free,Advanced,0.0,29.37,4.79,True,158,28,5.642857142857143
+TC00053,CR00018,21,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,True,163,28,5.821428571428571
+TC00053,CR00019,25,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,True,177,28,6.321428571428571
+TC00053,CR00020,23,0.0,Aaron Kirby,35,Male,Marketing,9,4.29,Email Marketing,Marketing,Free,Intermediate,0.0,46.25,4.11,True,155,25,6.2
+TC00054,CR00012,1,487.92,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00054,CR00013,2,0.0,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00054,CR00014,1,0.0,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00054,CR00015,2,570.1,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00054,CR00046,7,1736.7,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,AI for Beginners,Artificial Intelligence,Paid,Beginner,248.1,9.4,1.2,True,140,8,17.5
+TC00054,CR00047,5,447.95000000000005,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Natural Language Processing,Artificial Intelligence,Paid,Intermediate,89.59,1.55,2.68,True,166,8,20.75
+TC00054,CR00048,10,0.0,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,AI Ethics,Artificial Intelligence,Free,Beginner,0.0,42.7,3.64,True,186,8,23.25
+TC00054,CR00049,7,2908.5699999999997,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Deep Learning,Artificial Intelligence,Paid,Intermediate,415.51,28.33,3.11,True,163,8,20.375
+TC00054,CR00050,11,5399.9,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Computer Vision,Artificial Intelligence,Paid,Beginner,490.9,7.55,4.55,True,174,8,21.75
+TC00055,CR00012,1,487.92,Alison Wilson,47,Female,Cybersecurity,12,3.53,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00055,CR00013,1,0.0,Alison Wilson,47,Female,Cybersecurity,12,3.53,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00055,CR00015,2,570.1,Alison Wilson,47,Female,Cybersecurity,12,3.53,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00055,CR00031,8,0.0,Alison Wilson,47,Female,Cybersecurity,12,3.53,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00055,CR00032,8,0.0,Alison Wilson,47,Female,Cybersecurity,12,3.53,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00055,CR00033,5,0.0,Alison Wilson,47,Female,Cybersecurity,12,3.53,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00055,CR00034,8,3154.08,Alison Wilson,47,Female,Cybersecurity,12,3.53,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00055,CR00035,4,0.0,Alison Wilson,47,Female,Cybersecurity,12,3.53,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00056,CR00001,22,10390.16,Alexis Everett,35,Female,Programming,9,3.95,Python Basics,Programming,Paid,Beginner,472.28,11.0,4.74,True,164,25,6.56
+TC00056,CR00002,24,0.0,Alexis Everett,35,Female,Programming,9,3.95,Java Programming,Programming,Free,Intermediate,0.0,37.7,2.43,True,149,20,7.45
+TC00056,CR00003,24,0.0,Alexis Everett,35,Female,Programming,9,3.95,C++ for Beginners,Programming,Free,Beginner,0.0,19.53,3.85,True,173,27,6.407407407407407
+TC00056,CR00004,25,0.0,Alexis Everett,35,Female,Programming,9,3.95,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,True,154,27,5.703703703703703
+TC00056,CR00005,25,0.0,Alexis Everett,35,Female,Programming,9,3.95,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,True,166,29,5.724137931034483
+TC00056,CR00012,1,487.92,Alexis Everett,35,Female,Programming,9,3.95,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00056,CR00013,1,0.0,Alexis Everett,35,Female,Programming,9,3.95,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00056,CR00015,1,285.05,Alexis Everett,35,Female,Programming,9,3.95,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00057,CR00005,2,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00057,CR00006,2,552.74,Brittany Scott,44,Male,Data Science,7,3.44,Graphic Design Basics,Design,Paid,Advanced,276.37,48.84,2.72,False,156,15,10.4
+TC00057,CR00007,1,0.0,Brittany Scott,44,Male,Data Science,7,3.44,UI/UX Design,Design,Free,Advanced,0.0,48.68,2.61,False,178,16,11.125
+TC00057,CR00008,1,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00057,CR00009,2,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00057,CR00018,1,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00057,CR00021,7,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Data Analysis with Python,Data Science,Free,Intermediate,0.0,1.2,3.6,True,196,7,28.0
+TC00057,CR00022,4,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Data Visualization,Data Science,Free,Beginner,0.0,32.64,3.65,True,177,7,25.285714285714285
+TC00057,CR00023,7,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Machine Learning Fundamentals,Data Science,Free,Intermediate,0.0,9.71,3.02,True,185,7,26.428571428571427
+TC00057,CR00024,4,470.72,Brittany Scott,44,Male,Data Science,7,3.44,Big Data Analytics,Data Science,Paid,Advanced,117.68,48.09,2.57,True,166,7,23.714285714285715
+TC00057,CR00025,13,3894.41,Brittany Scott,44,Male,Data Science,7,3.44,Statistical Analysis,Data Science,Paid,Beginner,299.57,48.32,3.74,True,192,7,27.428571428571427
+TC00057,CR00051,1,37.89,Brittany Scott,44,Male,Data Science,7,3.44,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,False,171,20,8.55
+TC00057,CR00052,1,0.0,Brittany Scott,44,Male,Data Science,7,3.44,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00057,CR00054,1,0.0,Brittany Scott,44,Male,Data Science,7,3.44,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
+TC00057,CR00055,2,114.64,Brittany Scott,44,Male,Data Science,7,3.44,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,False,178,18,9.88888888888889
+TC00058,CR00011,2,652.04,Andrew Anderson,49,Male,Web Development,7,3.71,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00058,CR00012,4,1951.68,Andrew Anderson,49,Male,Web Development,7,3.71,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00058,CR00013,1,0.0,Andrew Anderson,49,Male,Web Development,7,3.71,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00058,CR00014,1,0.0,Andrew Anderson,49,Male,Web Development,7,3.71,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00058,CR00015,2,570.1,Andrew Anderson,49,Male,Web Development,7,3.71,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00058,CR00051,27,1023.03,Andrew Anderson,49,Male,Web Development,7,3.71,HTML & CSS,Web Development,Paid,Advanced,37.89,24.11,1.3,True,171,20,8.55
+TC00058,CR00052,28,0.0,Andrew Anderson,49,Male,Web Development,7,3.71,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,True,154,15,10.266666666666667
+TC00058,CR00053,24,0.0,Andrew Anderson,49,Male,Web Development,7,3.71,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,True,163,17,9.588235294117647
+TC00058,CR00054,26,0.0,Andrew Anderson,49,Male,Web Development,7,3.71,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,True,178,21,8.476190476190476
+TC00058,CR00055,23,1318.36,Andrew Anderson,49,Male,Web Development,7,3.71,Full-Stack Web Development,Web Development,Paid,Advanced,57.32,43.95,4.74,True,178,18,9.88888888888889
+TC00059,CR00011,2,652.04,Noah Stewart,48,Female,Cybersecurity,6,3.82,Entrepreneurship 101,Business,Paid,Intermediate,326.02,11.31,2.69,False,151,16,9.4375
+TC00059,CR00012,1,487.92,Noah Stewart,48,Female,Cybersecurity,6,3.82,Business Strategy,Business,Paid,Advanced,487.92,36.01,3.64,False,173,18,9.61111111111111
+TC00059,CR00013,2,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Finance for Startups,Business,Free,Advanced,0.0,15.84,2.0,False,170,20,8.5
+TC00059,CR00014,2,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Sales Mastery,Business,Free,Advanced,0.0,22.29,3.15,False,171,18,9.5
+TC00059,CR00015,1,285.05,Noah Stewart,48,Female,Cybersecurity,6,3.82,Leadership Essentials,Business,Paid,Beginner,285.05,34.78,1.96,False,168,19,8.842105263157896
+TC00059,CR00031,7,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Network Security,Cybersecurity,Free,Intermediate,0.0,26.52,1.91,True,160,9,17.77777777777778
+TC00059,CR00032,5,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Ethical Hacking,Cybersecurity,Free,Advanced,0.0,16.74,2.38,True,163,9,18.11111111111111
+TC00059,CR00033,6,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Cybersecurity Fundamentals,Cybersecurity,Free,Intermediate,0.0,48.25,3.93,True,167,9,18.555555555555557
+TC00059,CR00034,9,3548.34,Noah Stewart,48,Female,Cybersecurity,6,3.82,Data Encryption,Cybersecurity,Paid,Intermediate,394.26,47.44,1.35,True,150,9,16.666666666666668
+TC00059,CR00035,12,0.0,Noah Stewart,48,Female,Cybersecurity,6,3.82,Cyber Threat Intelligence,Cybersecurity,Free,Beginner,0.0,42.59,4.94,True,179,9,19.88888888888889
+TC00060,CR00004,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Advanced Python,Programming,Free,Beginner,0.0,45.13,2.88,False,154,27,5.703703703703703
+TC00060,CR00005,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Full Stack Development,Programming,Free,Beginner,0.0,28.68,1.28,False,166,29,5.724137931034483
+TC00060,CR00008,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Photoshop Mastery,Design,Free,Advanced,0.0,2.87,1.52,False,158,15,10.533333333333333
+TC00060,CR00009,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Web Design Fundamentals,Design,Free,Beginner,0.0,48.19,4.51,False,155,19,8.157894736842104
+TC00060,CR00010,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,3D Modeling,Design,Free,Advanced,0.0,15.29,4.45,False,180,18,10.0
+TC00060,CR00018,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Social Media Marketing,Marketing,Free,Advanced,0.0,15.44,2.01,False,163,28,5.821428571428571
+TC00060,CR00019,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Content Marketing,Marketing,Free,Advanced,0.0,18.0,2.98,False,177,28,6.321428571428571
+TC00060,CR00036,19,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Agile Project Management,Project Management,Free,Beginner,0.0,15.75,4.68,True,177,7,25.285714285714285
+TC00060,CR00037,16,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Scrum Essentials,Project Management,Free,Intermediate,0.0,33.93,3.45,True,153,7,21.857142857142858
+TC00060,CR00038,9,3083.4900000000002,Benjamin Gray,48,Female,Project Management,14,3.32,Risk Management,Project Management,Paid,Intermediate,342.61,17.14,4.84,True,158,7,22.571428571428573
+TC00060,CR00039,17,5894.07,Benjamin Gray,48,Female,Project Management,14,3.32,Project Planning,Project Management,Paid,Advanced,346.71,3.42,1.23,True,167,7,23.857142857142858
+TC00060,CR00040,20,6559.8,Benjamin Gray,48,Female,Project Management,14,3.32,Leadership in Projects,Project Management,Paid,Beginner,327.99,12.13,1.51,True,174,7,24.857142857142858
+TC00060,CR00052,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,JavaScript Mastery,Web Development,Free,Beginner,0.0,40.76,2.2,False,154,15,10.266666666666667
+TC00060,CR00053,1,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,React for Beginners,Web Development,Free,Advanced,0.0,40.07,2.67,False,163,17,9.588235294117647
+TC00060,CR00054,2,0.0,Benjamin Gray,48,Female,Project Management,14,3.32,Backend Development with Node.js,Web Development,Free,Beginner,0.0,48.57,3.32,False,178,21,8.476190476190476
